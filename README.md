@@ -36,7 +36,7 @@ Store Pass is a protocol dedicated to storage and retrieval of a user's password
 
 ## Roles
 
-- Owner: Is the only one who should be able to set and access the password.
+- Owner: Is the only one who should be able to set and access the password
 
 For this contract, only the owner should be able to interact with the contract.
 
